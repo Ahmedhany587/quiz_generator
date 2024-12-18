@@ -198,7 +198,7 @@ AnswerChecker
 
 ## 1. System Initialization Workflow
 
-
+```markdown
 ### Initialization Flow
 1. Config Class Initialization
    - Load Google API Key
