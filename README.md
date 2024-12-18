@@ -194,4 +194,3 @@ AnswerChecker
 
 ---
 
-This markdown document provides a comprehensive overview of function dependencies, highlighting the intricate relationships between different components of the educational question generation system.
